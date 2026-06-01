@@ -6,4 +6,8 @@ Aplikasi yang ditujukan untuk pemakaian internal.
 1. Browse ke halaman [Releases](../../releases/latest).
 2. Download file `AplikasiCetak.apk` dari bagian **Assets** di bawah.
 3. Jalankan & install di handphone.
-4. *Note: Terkadang akan muncul pemberitahuan pada saat menginstall karena aplikasi ini didownload dari luar Google Playstore. Click "Settings" lalu pilih "Allow from this source" untuk melanjutkan instalasi.*
+4. *Note: Terkadang akan muncul pemberitahuan pada saat menginstall karena aplikasi ini didownload dari luar Google Playstore. Masuk ke "Setting" lalu pilih "Allow from this source" untuk melanjutkan instalasi.*
+
+#### Perhatian:
+* Aplikasi yang asli hanya disediakan melalui situs ini.
+* Jangan menerima, mendownload, maupun menginstall dari sumber lain!
