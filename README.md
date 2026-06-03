@@ -1,4 +1,4 @@
-# Aplikasi Cetak
+# Aplikasi Cetak ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RAMBO-GG/it-tablet/total?link=https%3A%2F%2Fgithub.com%2FRAMBO-GG%2Fit-tablet%2Freleases%2Flatest)
 
 Aplikasi yang ditujukan untuk pemakaian internal.
 
@@ -10,4 +10,4 @@ Aplikasi yang ditujukan untuk pemakaian internal.
 
 #### Perhatian:
 * Aplikasi yang asli hanya disediakan melalui situs ini.
-* Jangan menerima, mendownload, maupun menginstall dari sumber lain!
+* Jangan menerima, mendownload, maupun menginstall dari sumber lain! (WhatsApp, Email, dll).
