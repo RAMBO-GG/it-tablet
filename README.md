@@ -12,4 +12,4 @@ Aplikasi yang ditujukan untuk pemakaian internal.
 * Aplikasi yang asli hanya disediakan melalui situs ini.
 * Jangan menerima, mendownload, maupun menginstall dari sumber lain! (WhatsApp, Email, dll).
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RAMBO-GG/it-tablet/total?label=Total%20Download)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RAMBO-GG/it-tablet/total?label=Total%20Download&cacheSeconds=3600)
